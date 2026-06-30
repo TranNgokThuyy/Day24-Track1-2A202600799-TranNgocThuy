@@ -1,4 +1,4 @@
-# Day24-Track1-2A202600799- Trần Ngọc Thụy
+# Day 24-Track 1-2A202600799-Trần Ngọc Thụy
 
 # Lab Assignment Day 24
 
